@@ -1,0 +1,50 @@
+
+*{
+              background: url(./cute-cat-and-rat-with-heart-shape-seamless-pattern-free-vector.jpg);
+              background-size: cover;
+}
+
+video{
+              width: 250px;
+              border-radius: 6px;
+}
+h1{
+              
+              position: absolute;
+              background: transparent;
+              top: 15%;
+              left: 41%;
+
+}
+.video{
+              position: absolute;
+              top: 25%;
+              left: 40%;
+              border-radius: 6px;
+}
+@media screen and (max-width:600px) {
+    h1{
+    position: absolute;
+    top: 10%;
+    text-align: center;
+    right: 17%
+    }
+    .h1{
+        position: absolute;
+        left: 30%;
+        top: 10%;
+        display: inline-flex;
+    }
+    .video{
+        position: absolute;
+        left:25%;
+        
+
+    }
+    video{
+        width: 200px;
+        position: absolute;
+        justify-content: center;
+    }
+    
+}
